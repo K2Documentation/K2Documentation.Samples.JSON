@@ -1,6 +1,8 @@
 # K2Documentation.Samples.JSON
 Contains JSON resources and files, for example JSON files used with the REST Service Type. See the help topic https://help.k2.com/onlinehelp/k2five/userguide/current/default.htm#ServiceBrokers/EndPoints/REST_Endpoint.htm for more information on how to use these JSON files with the REST Endpoint Service Type. 
 
+Also see the Swagger Templates repository on K2 Community for community-provided JSON/Swagger files for integrating with other services: https://community.k2.com/t5/Swagger-Templates/bg-p/SwaggerTemplates
+
 ## Files 
 The following JSON files are included in this repository. 
 ### OpenWeatherMap.json
